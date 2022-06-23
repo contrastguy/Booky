@@ -1,0 +1,16 @@
+nav.navbar.navbar-expand-lg.navbar-dark{
+    background-color:#595dc8 ;
+}
+
+a.navbar-brand > img{
+    width:200px;
+    height:50px;
+}
+
+div.offcanvas.offcanvas-end.text-white{
+    background-color:#595dc8 ;
+}
+
+button.btn.btn-light{
+    margin-right: 10px;
+}
